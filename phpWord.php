@@ -1,4 +1,5 @@
 <?php
+// PhpWord main class part of the PhpOffice\PhpWord lib.  Core component that allows you to create and manipulate Word documents programmatically.
 /**
  * This file is part of PHPWord - A pure PHP library for reading and writing
  * word processing documents.

@@ -1,4 +1,5 @@
 <?php
+// Script that handles generating & download of docs using PhpWord. Includes error handling, memory limit settings, Composer autoloading validation and proper HTTP headers for file download;
 // =============================================
 // 1. INITIAL SETUP (ERROR HANDLING & MEMORY)
 // =============================================
